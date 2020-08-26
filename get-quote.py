@@ -3,7 +3,7 @@ import random
 def doitnow():
 	#print("Keep it logically awesome.")
 
-  f = open("quotes.txt")
+  f = open("quotes-motivation.txt")
   quotes = f.readlines()
   f.close()
 
